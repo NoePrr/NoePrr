@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoePrr
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my friends projects
+- 👀 I’m interested by <b>computer</b>
+- 🌱 I’m currently learning <b>a lot of things</b></color>
+- 💞️ I’m looking to collaborate on <span style="color: red;"><b>many projects that I want to advance</b></span>
 - 📫 How to reach me : noe.poirier9@gmail.com
 
 <!---
