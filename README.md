@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @NoePrr
+- 👋 Hi, I’m <b>@NoePrr</b>
 - 👀 I’m interested by <b>computer</b>
 - 🌱 I’m currently learning <b>a lot of things</b></color>
-- 💞️ I’m looking to collaborate on <span style="color: red;"><b>many projects that I want to advance</b></span>
-- 📫 How to reach me : noe.poirier9@gmail.com
-
-<!---
-NoePrr/NoePrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on <b>many projects that I want to advance</b>
+- 📫 How to reach me : <b>noe.poirier9@gmail.com</b>
